@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/pelago-test/static/js/main.2900d971.chunk.js",
+    "main.js.map": "/pelago-test/static/js/main.2900d971.chunk.js.map",
+    "runtime-main.js": "/pelago-test/static/js/runtime-main.b09cb09d.js",
+    "runtime-main.js.map": "/pelago-test/static/js/runtime-main.b09cb09d.js.map",
+    "static/js/2.a321ed9f.chunk.js": "/pelago-test/static/js/2.a321ed9f.chunk.js",
+    "static/js/2.a321ed9f.chunk.js.map": "/pelago-test/static/js/2.a321ed9f.chunk.js.map",
+    "index.html": "/pelago-test/index.html",
+    "precache-manifest.5fe3350bacf26e3f0bd66c6208867c1a.js": "/pelago-test/precache-manifest.5fe3350bacf26e3f0bd66c6208867c1a.js",
+    "service-worker.js": "/pelago-test/service-worker.js",
+    "static/js/2.a321ed9f.chunk.js.LICENSE": "/pelago-test/static/js/2.a321ed9f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b09cb09d.js",
+    "static/js/2.a321ed9f.chunk.js",
+    "static/js/main.2900d971.chunk.js"
+  ]
+}
