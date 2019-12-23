@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pelago-exam/precache-manifest.b323ea57199ab1372deec98d70fccd9f.js"
+  "/pelago-exam/precache-manifest.9f430fd518e7a8efd4200b2266da1b46.js"
 );
 
 self.addEventListener('message', (event) => {
