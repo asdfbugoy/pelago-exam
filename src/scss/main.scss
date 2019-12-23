@@ -1,0 +1,35 @@
+$primary: #7faae4;
+$secondary: #834db7;
+$tertiary: #34283f;
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    color: $tertiary;
+}
+
+.primary {
+    color: $primary;
+}
+
+.secondary {
+    color: $secondary;
+}
+
+.tertiary {
+    color: $tertiary;
+}
+
+.header {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.poster {
+    height: 150px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+}
+
